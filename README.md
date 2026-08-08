@@ -455,8 +455,3 @@ python -m src.models.train
 | 🟢 Low | Simple web UI cho inference demo *(chưa implement)* |
 | 🟢 Low | Automated re-collection schedule để cập nhật giá mới |
 
----
-
-## License
-
-For academic and educational use only. Data sourced from FPT Shop public listings.
