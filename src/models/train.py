@@ -152,7 +152,7 @@ def main():
     df_results = pd.DataFrame(results).sort_values(by='CV MAE')
     df_results_out = df_results.drop(columns=['config_ref'])
     df_results_out.to_csv(os.path.join(data_dir, 'model_comparison.csv'), index=False)
-    logging.info("\\n" + df_results_out.to_string())
+    logging.info("\n" + df_results_out.to_string())
     
     # Selection
     best_config = df_results.iloc[0]['config_ref']
@@ -196,7 +196,7 @@ def main():
     error_df.to_csv(os.path.join(data_dir, 'test_predictions.csv'), index=False)
     
     logging.info("Top 5 Prediction Errors on Test Set:")
-    logging.info("\\n" + error_df.head(5).to_string())
+    logging.info("\n" + error_df.head(5).to_string())
 
 if __name__ == "__main__":
     main()

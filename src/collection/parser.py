@@ -1,5 +1,7 @@
 import re
+import json
 from bs4 import BeautifulSoup
+
 
 def parse_price(price_str):
     if not price_str:
@@ -9,8 +11,6 @@ def parse_price(price_str):
         return int(price_str)
     except ValueError:
         return None
-
-import json
 
 def extract_variants_and_specs(html):
     """

@@ -1,3 +1,4 @@
+import re
 import pandas as pd
 import numpy as np
 import os
@@ -41,7 +42,6 @@ def make_dataset():
     X = df.drop(columns=[target_col] + metadata_cols)
     y = df[target_col]
     
-    import re
     def get_family(name):
         n = str(name).lower()
         n = re.sub(r'\b\d+\s*(gb|mb|tb)\b', '', n)

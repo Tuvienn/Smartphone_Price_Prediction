@@ -1,6 +1,7 @@
 requests
 beautifulsoup4
 pandas
+joblib
 pytest
 scikit-learn
 jupyter
