@@ -5,7 +5,6 @@
 
 ---
 
-
 ## Project Overview
 
 | | |
@@ -445,14 +444,4 @@ python -m src.models.train
 
 ---
 
-## Future Work
-
-| Priority | Item |
-|---|---|
-| 🔴 High | Thu thập thêm dữ liệu (>500 observations) |
-| 🔴 High | Bổ sung feature `chipset`, `release_year`, `display_technology` |
-| 🟡 Medium | Model V2 — XGBoost / LightGBM với feature set đầy đủ hơn |
-| 🟡 Medium | FastAPI endpoint để serve prediction qua HTTP *(chưa implement)* |
-| 🟢 Low | Simple web UI cho inference demo *(chưa implement)* |
-| 🟢 Low | Automated re-collection schedule để cập nhật giá mới |
 
