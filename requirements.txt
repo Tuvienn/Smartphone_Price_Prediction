@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+pytest
+scikit-learn
+jupyter
+nbformat
+matplotlib
+seaborn
