@@ -1,0 +1,159 @@
+brand,model_name,ram_raw,ram_gb_parsed,storage_raw,storage_gb_parsed,chipset,battery_raw,screen_size_inch,refresh_rate_hz,main_camera_mp,front_camera_mp,has_5g,release_year,price_vnd,product_url,collected_at
+Oppo,OPPO Reno15 5G 12GB,12 GB,12.0,256GB,256.0,,,6.59 inch,,50.0 MP,,1,,16990000,https://fptshop.com.vn/dien-thoai/oppo-reno15-5g,2026-08-07T14:33:04.559689
+Apple,iPhone 16,128GB,128.0,128 GB,128.0,,8 GB,6.1 inch,,,,0,,20990000,https://fptshop.com.vn/dien-thoai/iphone-16,2026-08-07T14:33:06.987658
+Samsung,Samsung Galaxy S25 FE 5G,8 GB,8.0,128GB,128.0,,,6.7 inch,,50.0 MP,,1,,13090000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-fe?sku=00921056,2026-08-07T14:33:09.947777
+Xiaomi,Xiaomi 17 Ultra 5G 16GB,16 GB,16.0,512GB,512.0,,,6.9 inch,,50.0 MP,,1,,31990000,https://fptshop.com.vn/dien-thoai/xiaomi-17-ultra?sku=00925846,2026-08-07T14:33:13.261084
+Samsung,Samsung Galaxy S26 5G 12GB,12 GB,12.0,256GB,256.0,,,6.3 inch,,50.0 MP,,1,,20990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26,2026-08-07T14:33:18.198515
+Apple,iPhone 17 Pro,256GB,256.0,256 GB,256.0,,12 GB,6.3 inch,,,,0,,31990000,https://fptshop.com.vn/dien-thoai/iphone-17-pro,2026-08-07T14:33:20.677071
+Nubia,Nubia V80 Design 8GB,8 GB,8.0,256GB,256.0,,,6.75 inch,,50.0 MP,,0,,4490000,https://fptshop.com.vn/dien-thoai/nubia-v80-design?sku=00924722,2026-08-07T14:33:24.199955
+Oppo,OPPO Reno13 F 5G 12GB,12 GB,12.0,256GB,256.0,,,6.67 inch,,50.0 MP,,1,,9990000,https://fptshop.com.vn/dien-thoai/oppo-reno13-f-5g,2026-08-07T14:33:27.247407
+Tecno,Tecno Camon 40 8GB,8 GB,8.0,128GB,128.0,,,6.78 inch,,50.0 MP,,0,,4990000,https://fptshop.com.vn/dien-thoai/tecno-camon-40?sku=00917774,2026-08-07T14:33:30.843463
+Xiaomi,Xiaomi Redmi 15C 8GB,8 GB,8.0,256GB,256.0,,,6.9 inch,,50.0 MP,,0,,4990000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-15c-8gb,2026-08-07T14:33:33.385444
+REDMAGIC,REDMAGIC 11S Pro 5G 16GB,16 GB,16.0,512GB,512.0,,,6.85 inch,,50.0 MP,,1,,25990000,https://fptshop.com.vn/dien-thoai/redmagic-11s-pro-16gb,2026-08-07T14:33:36.224420
+Apple,iPhone 17 Pro Max,256GB,256.0,1 TB,1.0,,12 GB,6.9 inch,,,,0,,46990000,https://fptshop.com.vn/dien-thoai/iphone-17-pro-max-1tb?sku=00921807,2026-08-07T14:33:38.995280
+Honor,Honor Play 10 3GB,3 GB,3.0,64GB,64.0,,,6.74 inch,,13.0 MP,,0,,3590000,https://fptshop.com.vn/dien-thoai/honor-play-10,2026-08-07T14:33:42.340639
+Apple,iPhone Air,256GB,256.0,256 GB,256.0,,12 GB,6.5 inch,,,,0,,22990000,https://fptshop.com.vn/dien-thoai/iphone-air-256gb,2026-08-07T14:33:45.273760
+Samsung,Samsung Galaxy Z Fold8 5G 12GB,12 GB,12.0,256GB,256.0,,,7.6 inch,,50.0 MP,,1,,46990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold8,2026-08-07T14:33:47.581113
+TCL,TCL 60R 5G 4GB,4 GB,4.0,128GB,128.0,,,6.7 inch,,50 MP,,1,,2990000,https://fptshop.com.vn/dien-thoai/tcl-60r?sku=00918547,2026-08-07T14:33:51.151653
+Xiaomi,Xiaomi Poco X7 5G 12GB,12 GB,12.0,512GB,512.0,,,6.67 inch,,,,1,,7490000,https://fptshop.com.vn/dien-thoai/xiaomi-poco-x7,2026-08-07T14:33:53.821894
+Apple,iPhone 16,256GB,256.0,256 GB,256.0,,8 GB,6.1 inch,,,,0,,23490000,https://fptshop.com.vn/dien-thoai/iphone-16-256gb,2026-08-07T14:33:56.917129
+Xiaomi,Xiaomi POCO C81 Pro 4GB,4 GB,4.0,128GB,128.0,,,6.9 inch,,13.0 MP,,0,,3890000,https://fptshop.com.vn/dien-thoai/xiaomi-poco-c81-pro,2026-08-07T14:34:00.363133
+Oppo,OPPO A6T 6GB,6 GB,6.0,256GB,256.0,,,6.75 inch,,13.0 MP,,0,,8090000,https://fptshop.com.vn/dien-thoai/oppo-a6t-6gb?sku=00924549,2026-08-07T14:34:03.509824
+Honor,Honor X7d 8GB,8 GB,8.0,128GB,128.0,,,6.77 inch,,108.0 MP,,0,,6090000,https://fptshop.com.vn/dien-thoai/honor-x7d,2026-08-07T14:34:09.210629
+Oppo,Oppo Find X9s 5G 12GB,12 GB,12.0,256GB,256.0,,,6.59 inch,,,,1,,24990000,https://fptshop.com.vn/dien-thoai/oppo-find-x9s?sku=00928167,2026-08-07T14:34:12.165449
+Samsung,Samsung Galaxy A26 5G,8 GB,8.0,128GB,128.0,,,6.7 inch,,50.0 MP,,1,,6990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a26,2026-08-07T14:34:14.369311
+Samsung,Samsung Galaxy A07 5G 4GB,4 GB,4.0,128GB,128.0,,,6.74 inch,,50.0 MP,,1,,5090000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a07-5g,2026-08-07T14:34:19.969237
+Xiaomi,Xiaomi 17T Pro 5G 12GB,12 GB,12.0,512GB,512.0,,,6.83 inch,,50.0 MP,,1,,22490000,https://fptshop.com.vn/dien-thoai/xiaomi-17t-pro,2026-08-07T14:34:26.461508
+Tecno,Tecno Spark 30 8GB,8 GB,8.0,128GB,128.0,,,6.78 inch,,64.0 MP,,0,,3190000,https://fptshop.com.vn/dien-thoai/tecno-spark-30-8gb,2026-08-07T14:34:29.323691
+Oppo,OPPO Reno15 F 5G 8GB,8 GB,8.0,256GB,256.0,,,6.57 inch,,50.0 MP,,1,,11990000,https://fptshop.com.vn/dien-thoai/oppo-reno15-f,2026-08-07T14:34:32.517278
+Oppo,Oppo A6C 4GB,4 GB,4.0,64GB,64.0,,,6.75 inch,,13.0 MP,,0,,4690000,https://fptshop.com.vn/dien-thoai/oppo-a6c,2026-08-07T14:34:35.976862
+Honor,Honor X5b Plus 4GB,4 GB,4.0,128GB,128.0,,,6.56 inch,,13.0 MP,,0,,2440000,https://fptshop.com.vn/dien-thoai/honor-x5b-plus,2026-08-07T14:34:38.462155
+Xiaomi,Xiaomi Redmi Note 15 5G 6GB,6 GB,6.0,128GB,128.0,,,6.77 inch,,,,1,,6790000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-15-5g,2026-08-07T14:34:41.183256
+Samsung,Samsung Galaxy A56 5G,8 GB,8.0,128GB,128.0,,,6.7 inch,,50.0 MP,,1,,9310000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a56?sku=00916571,2026-08-07T14:34:43.748140
+Apple,iPhone 16 Plus,128GB,128.0,128 GB,128.0,,8 GB,6.7 inch,,,,0,,24990000,https://fptshop.com.vn/dien-thoai/iphone-16-plus,2026-08-07T14:34:46.924871
+Samsung,Samsung Galaxy Z Fold7 5G,12 GB,12.0,256GB,256.0,,,8 inch,,200.0 MP,,1,,39990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold7?sku=00919910,2026-08-07T14:34:49.279872
+Samsung,Samsung Galaxy A17 5G,8 GB,8.0,128GB,128.0,,,6.7 inch,,50.0 MP,,1,,6490000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a17-5g?sku=00920680,2026-08-07T14:34:53.739554
+Oppo,OPPO A6 Pro 8GB,8 GB,8.0,256GB,256.0,,,6.57 inch,,50 MP,,0,,9990000,https://fptshop.com.vn/dien-thoai/oppo-a6-pro?sku=00922203,2026-08-07T14:34:58.350793
+Samsung,Samsung Galaxy A27 5G 6GB,6 GB,6.0,128GB,128.0,,,6.7 inch,,50 MP,,1,,7490000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a27?sku=00929307,2026-08-07T14:35:01.630342
+Oppo,OPPO Reno12 5G 12GB,12 GB,12.0,256GB,256.0,,,6.7 inch,,50.0 MP,,1,,9990000,https://fptshop.com.vn/dien-thoai/oppo-reno12,2026-08-07T14:35:05.282756
+Xiaomi,Xiaomi Poco M8 Pro 5G 8GB,8 GB,8.0,256GB,256.0,,,6.83 inch,,50.0 MP,,1,,9490000,https://fptshop.com.vn/dien-thoai/xiaomi-poco-m8-pro-8gb?sku=00925511,2026-08-07T14:35:08.472347
+Xiaomi,Xiaomi Redmi Note 15 6GB,6 GB,6.0,128GB,128.0,,,6.77 inch,,108.0 MP,,0,,5590000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-15,2026-08-07T14:35:18.419402
+Honor,Honor 600 5G 12GB,12 GB,12.0,256GB,256.0,,,6.57 inch,,200.0 MP,,1,,17090000,https://fptshop.com.vn/dien-thoai/honor-600-12gb?sku=00928791,2026-08-07T14:35:20.758338
+Masstel,Masstel Izi T5 Plus 4G,32GB,32.0,,,,2300 mAh,2.4 inch,,,,0,,550000,https://fptshop.com.vn/dien-thoai/masstel-izi-t5-plus,2026-08-07T14:35:23.052212
+Oppo,OPPO Find N3 5G 16GB,16 GB,16.0,512GB,512.0,,,7.82 inch,,48.0 MP,,1,,26990000,https://fptshop.com.vn/dien-thoai/oppo-find-n3?sku=00904505,2026-08-07T14:35:28.354486
+Nubia,Nubia Air 5G 8GB,8 GB,8.0,256GB,256.0,,,6.78 inch,,50.0 MP,,1,,5490000,https://fptshop.com.vn/dien-thoai/nubia-air?sku=00922514,2026-08-07T14:35:31.441073
+Oppo,OPPO A6T 4GB,4 GB,4.0,64GB,64.0,,,6.75 inch,,13.0 MP,,0,,4990000,https://fptshop.com.vn/dien-thoai/oppo-a6t,2026-08-07T14:35:37.391314
+Oppo,OPPO Reno12 F 5G 8GB,8 GB,8.0,256GB,256.0,,,6.67 inch,,50.0 MP,,1,,6990000,https://fptshop.com.vn/dien-thoai/oppo-reno12-f,2026-08-07T14:35:40.354483
+Xiaomi,Xiaomi 17T 5G 12GB,12 GB,12.0,512GB,512.0,,,6.59 inch,,50.0 MP,,1,,18990000,https://fptshop.com.vn/dien-thoai/xiaomi-17t,2026-08-07T14:35:42.627625
+Honor,Honor X9c 5G 12GB,12 GB,12.0,256GB,256.0,,,6.78 inch,,108.0 MP,,1,,7290000,https://fptshop.com.vn/dien-thoai/honor-x9c,2026-08-07T14:35:45.555226
+Xiaomi,Xiaomi Redmi 17 6GB,6 GB,6.0,256GB,256.0,,,6.9 inch,,50.0 MP,,0,,7090000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-17,2026-08-07T14:35:51.717688
+Nubia,Nubia A76 4GB (NFC),4 GB,4.0,128GB,128.0,,,6.75 inch,,50.0 MP,,0,,2890000,https://fptshop.com.vn/dien-thoai/nubia-a76,2026-08-07T14:35:54.600118
+Apple,iPhone 16 Plus,512GB,512.0,512 GB,512.0,,8 GB,6.7 inch,,,,0,,29990000,https://fptshop.com.vn/dien-thoai/iphone-16-plus-512gb?sku=00911159,2026-08-07T14:35:57.495990
+Oppo,Oppo A6T Pro 8GB,8 GB,8.0,128GB,128.0,,,6.75 inch,,50 MP,,0,,9220000,https://fptshop.com.vn/dien-thoai/oppo-a6t-pro,2026-08-07T14:35:59.480806
+Viettel,Viettel Sumo T2 4G,,,,,,,2.4 inch,,,,0,,550000,https://fptshop.com.vn/dien-thoai/viettel-sumo-t2-4g,2026-08-07T14:36:02.664171
+Oppo,OPPO Reno14 F 5G 8GB,8 GB,8.0,256GB,256.0,,,6.57 inch,,50.0 MP,,1,,9800000,https://fptshop.com.vn/dien-thoai/oppo-reno14-f?sku=00919217,2026-08-07T14:36:06.070050
+Itel,Itel P55 Plus NFC 8GB,8 GB,8.0,256GB,256.0,,,6.6 inch,,50 MP,,0,,3490000,https://fptshop.com.vn/dien-thoai/itel-p55-plus-nfc?sku=00929758,2026-08-07T14:36:12.611400
+Oppo,OPPO Find X9 5G 16GB,16 GB,16.0,512GB,512.0,,,6.59 inch,,50.0 MP,,1,,26990000,https://fptshop.com.vn/dien-thoai/oppo-find-x9-5g-16gb,2026-08-07T14:36:17.422586
+Apple,iPhone Air,512GB,512.0,512 GB,512.0,,12 GB,6.5 inch,,,,0,,29990000,https://fptshop.com.vn/dien-thoai/iphone-air-512gb,2026-08-07T14:36:19.966798
+Honor,Honor X5c Plus 4GB,4 GB,4.0,64GB,64.0,,,6.74 inch,,50.0 MP,,0,,3590000,https://fptshop.com.vn/dien-thoai/honor-x5c-plus,2026-08-07T14:36:26.435918
+Honor,Honor Magic V5 5G 16GB,16 GB,16.0,512GB,512.0,,,7.95 inch,,50.0 MP,,1,,39990000,https://fptshop.com.vn/dien-thoai/honor-magic-v5?sku=00922176,2026-08-07T14:36:29.401402
+Nokia,Nokia HMD 105 4G,,,,,,1450 mAh,2.4 inch,,,,0,,750000,https://fptshop.com.vn/dien-thoai/nokia-hmd-105-4g,2026-08-07T14:36:32.379149
+Samsung,Samsung Galaxy A37 5G 8GB,8 GB,8.0,128GB,128.0,,,6.7 inch,,50 MP,,1,,9990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a37?sku=00926834,2026-08-07T14:36:34.902089
+Apple,iPhone 17,256GB,256.0,256 GB,256.0,,8 GB,6.3 inch,,,,0,,23990000,https://fptshop.com.vn/dien-thoai/iphone-17,2026-08-07T14:36:38.268556
+Samsung,Samsung Galaxy S25 FE 5G,8 GB,8.0,512GB,512.0,,,6.7 inch,,50.0 MP,,1,,17990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-fe?sku=00921500,2026-08-07T14:36:42.246502
+Oppo,OPPO Find N6 5G 16GB,16 GB,16.0,512GB,512.0,,,8.12 inch,,,,1,,64990000,https://fptshop.com.vn/dien-thoai/oppo-find-n6,2026-08-07T14:36:45.181634
+Samsung,Samsung Galaxy Z TriFold 5G 16GB,16 GB,16.0,512GB,512.0,,,10 inch,,50.0 MP,,1,,0,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-trifold,2026-08-07T14:36:49.487146
+Nokia,Nokia 110 DS Pro 4G,32GB,32.0,,,,1450 mAh,1.77 inch,,,,0,,850000,https://fptshop.com.vn/dien-thoai/nokia-110-ds-pro-4g-2,2026-08-07T14:36:56.559598
+Apple,iPhone 16e SIM Viettel,128GB,128.0,128 GB,128.0,,21 Giờ,6.1 inch,,,,0,,13690000,https://fptshop.com.vn/dien-thoai/iphone-16e-sim-viettel,2026-08-07T14:36:58.738015
+Benco,Benco V90 Plus 4GB,4 GB,4.0,64GB,64.0,,,6.56 inch,,13.0 MP,,0,,2490000,https://fptshop.com.vn/dien-thoai/benco-v90-plus,2026-08-07T14:37:02.288210
+Honor,Honor 600 5G 8GB,8 GB,8.0,256GB,256.0,,,6.57 inch,,200.0 MP,,1,,16190000,https://fptshop.com.vn/dien-thoai/honor-600,2026-08-07T14:37:05.393718
+Honor,Honor X5c 4GB,4 GB,4.0,64GB,64.0,,,6.74 inch,,50 MP,,0,,3290000,https://fptshop.com.vn/dien-thoai/honor-x5c?sku=00926823,2026-08-07T14:37:08.101414
+Xiaomi,Xiaomi Poco C71 4GB,4 GB,4.0,128GB,128.0,,,6.88 inch,,32.0 MP,,0,,2950000,https://fptshop.com.vn/dien-thoai/xiaomi-poco-c71?sku=00918991,2026-08-07T14:37:15.581795
+Nubia,Nubia V70 Design 8GB,8 GB,8.0,128GB,128.0,,,6.7 inch,,50.0 MP,,0,,3990000,https://fptshop.com.vn/dien-thoai/nubia-v70-design?sku=00916394,2026-08-07T14:37:18.112412
+Honor,Honor X8d 8GB,8 GB,8.0,128GB,128.0,,,6.77 inch,,108.0 MP,,0,,7190000,https://fptshop.com.vn/dien-thoai/honor-x8d,2026-08-07T14:37:20.331004
+Samsung,Samsung Galaxy A06 5G,4 GB,4.0,128GB,128.0,,,6.7 inch,,50.0 MP,,1,,3620000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a06?sku=00916568,2026-08-07T14:37:25.635414
+Oppo,OPPO Reno13 F 8GB,8 GB,8.0,256GB,256.0,,,6.67 inch,,50.0 MP,,0,,7990000,https://fptshop.com.vn/dien-thoai/oppo-reno13-f?sku=00913796,2026-08-07T14:37:31.928555
+Xiaomi,Xiaomi Redmi A7 Pro 4GB (NFC),4 GB,4.0,128GB,128.0,,,6.9 inch,,13.0 MP,,0,,3890000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-a7-pro,2026-08-07T14:37:36.717333
+Benco,Benco S1 Pro 8GB,8 GB,8.0,256GB,256.0,,,6.8 inch,,64.0 MP,,0,,3790000,https://fptshop.com.vn/dien-thoai/benco-s1-pro,2026-08-07T14:37:39.695920
+Xiaomi,Xiaomi 15T 5G 12GB,12 GB,12.0,512GB,512.0,,,6.83 inch,,,,1,,13490000,https://fptshop.com.vn/dien-thoai/xiaomi-15t,2026-08-07T14:37:45.113881
+Honor,Honor Play 10 4GB,4 GB,4.0,128GB,128.0,,,6.74 inch,,13.0 MP,,0,,4090000,https://fptshop.com.vn/dien-thoai/honor-play-10-4gb,2026-08-07T14:37:49.085121
+Xiaomi,Xiaomi Redmi 13x 8GB 128GB,8 GB,8.0,128GB,128.0,,,6.79 inch,,108.0 MP,,0,,3990000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-13x,2026-08-07T14:37:52.491909
+Samsung,Samsung Galaxy S26 Plus 5G 12GB,12 GB,12.0,512GB,512.0,,,6.7 inch,,50.0 MP,,1,,29590000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-plus?sku=00925436,2026-08-07T14:37:55.663867
+Tecno,Tecno Spark 30 5G 6GB,6 GB,6.0,128GB,128.0,,,6.67 inch,,108.0 MP,,1,,3810000,https://fptshop.com.vn/dien-thoai/tecno-spark-30,2026-08-07T14:37:59.381277
+REDMAGIC,REDMAGIC 11 Pro 5G 12GB,12 GB,12.0,256GB,256.0,,,6.85 inch,,50.0 MP,,1,,19990000,https://fptshop.com.vn/dien-thoai/redmagic-11-pro,2026-08-07T14:38:02.410647
+Nubia,Nubia Neo 5 Max 8GB,8 GB,8.0,256GB,256.0,,,7.5 inch,,50.0 MP,,0,,8790000,https://fptshop.com.vn/dien-thoai/nubia-neo-5-max,2026-08-07T14:38:04.799567
+Xiaomi,Xiaomi Redmi 17 5G 4GB,4 GB,4.0,128GB,128.0,,,6.9 inch,,50.0 MP,,1,,6090000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-17-5g,2026-08-07T14:38:09.779810
+Nokia,Nokia 105 DS Pro 4G,,,,,,1450 mAh,1.77 inch,,,,0,,780000,https://fptshop.com.vn/dien-thoai/nokia-105-ds-pro-4g,2026-08-07T14:38:15.494936
+Nubia,Nubia Neo 5 Max 8GB,8 GB,8.0,512GB,512.0,,,7.5 inch,,50.0 MP,,0,,9790000,https://fptshop.com.vn/dien-thoai/nubia-neo-5-max?sku=00929573,2026-08-07T14:38:20.613218
+Samsung,Samsung Galaxy Z Fold8 Ultra 5G 12GB,12 GB,12.0,256GB,256.0,,,8 inch,,50.0 MP,,1,,52990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold8-ultra,2026-08-07T14:38:23.851447
+Xiaomi,Xiaomi Poco M7 Pro 5G 8GB,8 GB,8.0,256GB,256.0,,,6.67 inch,,,,1,,5990000,https://fptshop.com.vn/dien-thoai/xiaomi-poco-m7-pro?sku=00920479,2026-08-07T14:38:26.950952
+Nubia,Nubia Fold 5G 12GB,12 GB,12.0,256GB,256.0,,,8 inch,,,,1,,29990000,https://fptshop.com.vn/dien-thoai/nubia-fold,2026-08-07T14:38:29.509797
+Samsung,Samsung Galaxy A17,8 GB,8.0,128GB,128.0,,,6.7 inch,,50.0 MP,,0,,5990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a17?sku=00920685,2026-08-07T14:38:33.084804
+Honor,Honor X9d 5G 12GB,12 GB,12.0,256GB,256.0,,,6.79 inch,,108.0 MP,,1,,10790000,https://fptshop.com.vn/dien-thoai/honor-x9d-12gb?sku=00924091,2026-08-07T14:38:35.710737
+Samsung,Samsung Galaxy S26 Plus 5G 12GB,12 GB,12.0,256GB,256.0,,,6.7 inch,,50.0 MP,,1,,23490000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-plus,2026-08-07T14:38:38.742706
+Samsung,Samsung Galaxy S26 Ultra 5G 12GB,12 GB,12.0,256GB,256.0,,,6.9 inch,,50.0 MP,,1,,31990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-ultra?sku=00925453,2026-08-07T14:38:42.329191
+Xiaomi,Xiaomi Redmi 15 5G 8GB,8 GB,8.0,128GB,128.0,,,6.9 inch,,50.0 MP,,1,,5990000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-15?sku=00923582,2026-08-07T14:38:46.381232
+Masstel,Masstel Fami 60S,,,,,,2300 mAh,2 inch,,,,0,,750000,https://fptshop.com.vn/dien-thoai/masstel-fami-60s-4g,2026-08-07T14:38:52.319410
+Xiaomi,Xiaomi 15T Pro 5G 12GB,12 GB,12.0,512GB,512.0,,,6.83 inch,,,,1,,17490000,https://fptshop.com.vn/dien-thoai/xiaomi-15t-pro,2026-08-07T14:38:57.386328
+Apple,iPhone 16e,128GB,128.0,256 GB,256.0,,21 Giờ,6.1 inch,,,,0,,16990000,https://fptshop.com.vn/dien-thoai/iphone-16e?sku=00916022,2026-08-07T14:38:59.755883
+Apple,iPhone 17 Pro Max,256GB,256.0,512 GB,512.0,,12 GB,6.9 inch,,,,0,,41490000,https://fptshop.com.vn/dien-thoai/iphone-17-pro-max-512gb?sku=00921805,2026-08-07T14:39:03.126657
+Apple,iPhone 17 Pro Max,256GB,256.0,256 GB,256.0,,12 GB,6.9 inch,,,,0,,34990000,https://fptshop.com.vn/dien-thoai/iphone-17-pro-max,2026-08-07T14:39:06.532070
+Xiaomi,Xiaomi Redmi 15C 4GB,4 GB,4.0,128GB,128.0,,,6.9 inch,,50.0 MP,,0,,4390000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-15c,2026-08-07T14:39:15.430447
+Samsung,Samsung Galaxy S26 5G 12GB,12 GB,12.0,512GB,512.0,,,6.3 inch,,50.0 MP,,1,,26490000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26?sku=00925474,2026-08-07T14:39:21.176090
+Nubia,Nubia V80 Design 4GB,4 GB,4.0,128GB,128.0,,,6.75 inch,,50.0 MP,,0,,3690000,https://fptshop.com.vn/dien-thoai/nubia-v80-design-4gb?sku=00928420,2026-08-07T14:39:26.319140
+Honor,Honor X6c 6GB,6 GB,6.0,128GB,128.0,,,6.61 inch,,,,0,,4490000,https://fptshop.com.vn/dien-thoai/honor-x6c,2026-08-07T14:39:28.538740
+Masstel,Masstel Izi 15 4G,,,,,,1000 mAh,1.77 inch,,,,0,,460000,https://fptshop.com.vn/dien-thoai/masstel-izi-15,2026-08-07T14:39:35.765947
+Oppo,Oppo Find X9 Ultra 5G 12GB,12 GB,12.0,512GB,512.0,,,6.82 inch,,200.0 MP,,1,,49990000,https://fptshop.com.vn/dien-thoai/oppo-find-x9-ultra?sku=00928166,2026-08-07T14:39:43.757418
+Nubia,Nubia Neo 5 5G 8GB,8 GB,8.0,256GB,256.0,,,6.8 inch,,50.0 MP,,1,,7990000,https://fptshop.com.vn/dien-thoai/nubia-neo-5?sku=00927796,2026-08-07T14:39:50.715745
+Honor,Honor X7d 8GB,8 GB,8.0,256GB,256.0,,,6.77 inch,,108.0 MP,,0,,6290000,https://fptshop.com.vn/dien-thoai/honor-x7d?sku=00922801,2026-08-07T14:39:54.319657
+Oppo,Oppo A6C 4GB,4 GB,4.0,128GB,128.0,,,6.75 inch,,13.0 MP,,0,,5310000,https://fptshop.com.vn/dien-thoai/oppo-a6c?sku=00928864,2026-08-07T14:39:56.755610
+Oppo,OPPO A6T 4GB,4 GB,4.0,128GB,128.0,,,6.75 inch,,13.0 MP,,0,,6380000,https://fptshop.com.vn/dien-thoai/oppo-a6t?sku=00924555,2026-08-07T14:40:04.730542
+Honor,Honor X9d 5G 8GB,8 GB,8.0,256GB,256.0,,,6.79 inch,,108.0 MP,,1,,9790000,https://fptshop.com.vn/dien-thoai/honor-x9d?sku=00923682,2026-08-07T14:40:07.807895
+Apple,iPhone 17,512GB,512.0,512 GB,512.0,,8 GB,6.3 inch,,,,0,,29990000,https://fptshop.com.vn/dien-thoai/iphone-17-512gb?sku=00921657,2026-08-07T14:40:10.645974
+Honor,Honor X7d 5G 8GB,8 GB,8.0,256GB,256.0,,,6.77 inch,,108.0 MP,,1,,7290000,https://fptshop.com.vn/dien-thoai/honor-x7d-5g,2026-08-07T14:40:14.183619
+Samsung,Samsung Galaxy S25 Ultra 5G,12 GB,12.0,256GB,256.0,,,6.9 inch,,200.0 MP,,1,,30990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-ultra-5g-512gb?sku=00914049,2026-08-07T14:40:21.759514
+Xiaomi,Xiaomi Redmi Note 15 Pro 5G 12GB,12 GB,12.0,256GB,256.0,,,6.83 inch,,,,1,,11190000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-15-pro-5g?sku=00924537,2026-08-07T14:40:25.279570
+Benco,Benco V91 Plus 6GB,6 GB,6.0,128GB,128.0,,,6.56 inch,,50.0 MP,,0,,3190000,https://fptshop.com.vn/dien-thoai/benco-v91-plus-6gb?sku=00911627,2026-08-07T14:40:30.774022
+Tecno,Tecno Pova 7 8GB,8 GB,8.0,128GB,128.0,,,6.78 inch,,108.0 MP,,0,,4490000,https://fptshop.com.vn/dien-thoai/tecno-pova-7,2026-08-07T14:40:34.167799
+Itel,Itel IT8010 4G,,,,,,1000 mAh,2 inch,,,,0,,349000,https://fptshop.com.vn/dien-thoai/itel-it8010-4g,2026-08-07T14:40:55.887562
+Samsung,Samsung Galaxy S24 FE 5G,8 GB,8.0,128GB,128.0,,,6.7 inch,,50 MP,,1,,12490000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s24-fe-5g?sku=00911815,2026-08-07T14:40:59.102943
+Nokia,Nokia 220 4G,,,,,,1450 mAh,2.8 inch,,,,0,,1100000,https://fptshop.com.vn/dien-thoai/nokia-220-4g,2026-08-07T14:41:04.532761
+Xiaomi,Xiaomi Redmi A7 3GB,3 GB,3.0,64GB,64.0,,,6.88 inch,,13.0 MP,,0,,3390000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-a7?sku=00929628,2026-08-07T14:41:14.243196
+Inoi,INOI 240 Modern 4G,32GB,32.0,,,,1000 mAh,1.8 inch,,,,0,,349000,https://fptshop.com.vn/dien-thoai/inoi-240-modern-4g,2026-08-07T14:41:22.099252
+REDMAGIC,REDMAGIC 11S Pro 5G 12GB,12 GB,12.0,256GB,256.0,,,6.85 inch,,50.0 MP,,1,,22990000,https://fptshop.com.vn/dien-thoai/redmagic-11s-pro?sku=00929707,2026-08-07T14:41:24.801319
+Apple,iPhone 16e,128GB,128.0,128 GB,128.0,,21 Giờ,6.1 inch,,,,0,,14990000,https://fptshop.com.vn/dien-thoai/iphone-16e,2026-08-07T14:41:35.321783
+Samsung,Samsung Galaxy A07 8GB,8 GB,8.0,256GB,256.0,,,6.7 inch,,50.0 MP,,0,,4490000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a07-8gb,2026-08-07T14:41:38.296212
+Tecno,Tecno Pova Curve 2 5G 8GB,8 GB,8.0,128GB,128.0,,,6.78 inch,,50.0 MP,,1,,9990000,https://fptshop.com.vn/dien-thoai/tecno-pova-curve-2?sku=00929246,2026-08-07T14:41:42.802807
+Apple,iPhone 17e,512GB,512.0,512 GB,512.0,,26 Giờ,6.1 inch,,,,0,,23490000,https://fptshop.com.vn/dien-thoai/iphone-17e?sku=00926265,2026-08-07T14:41:46.303589
+Samsung,Samsung Galaxy A36 5G,8 GB,8.0,128GB,128.0,,,6.7 inch,,50.0 MP,,1,,7540000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a36,2026-08-07T14:41:51.514309
+Oppo,OPPO A5i Pro 8GB,8 GB,8.0,128GB,128.0,,,6.67 inch,,50.0 MP,,0,,6290000,https://fptshop.com.vn/dien-thoai/oppo-a5i-pro?sku=00920168,2026-08-07T14:42:07.206063
+Oppo,OPPO A5i 6GB,6 GB,6.0,128GB,128.0,,,6.67 inch,,8.0 MP,,0,,4490000,https://fptshop.com.vn/dien-thoai/oppo-a5i-6gb?sku=00920640,2026-08-07T14:42:09.789599
+Tecno,Tecno Pova 7 8GB,8 GB,8.0,256GB,256.0,,,6.78 inch,,108.0 MP,,0,,4890000,https://fptshop.com.vn/dien-thoai/tecno-pova-7?sku=00919827,2026-08-07T14:42:16.996384
+Samsung,Samsung Galaxy S26 Ultra 5G 16GB,16 GB,16.0,1TB,1.0,,,6.9 inch,,50.0 MP,,1,,41990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-ultra-16gb?sku=00925448,2026-08-07T14:42:20.262135
+Samsung,Samsung Galaxy Z Fold8 5G 16GB,16 GB,16.0,1TB,1.0,,,8 inch,,50.0 MP,,1,,61990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold8-16gb,2026-08-07T14:42:28.582663
+Xiaomi,Xiaomi 17 Ultra 5G 16GB,16 GB,16.0,1TB,1.0,,,6.9 inch,,50.0 MP,,1,,35990000,https://fptshop.com.vn/dien-thoai/xiaomi-17-ultra-5g-16gb?sku=00925849,2026-08-07T14:42:31.413371
+Tecno,Tecno Spark Go 3 4GB,4 GB,4.0,64GB,64.0,,,6.7 inch,,8.0 MP,,0,,2990000,https://fptshop.com.vn/dien-thoai/tecno-spark-go-3?sku=00927604,2026-08-07T14:42:40.161230
+Nubia,Nubia Neo 5 5G 8GB,8 GB,8.0,128GB,128.0,,,6.8 inch,,50.0 MP,,1,,6990000,https://fptshop.com.vn/dien-thoai/nubia-neo-5,2026-08-07T14:42:42.268148
+Samsung,Samsung Galaxy A07,4 GB,4.0,128GB,128.0,,,6.7 inch,,50.0 MP,,0,,3990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a07,2026-08-07T14:42:48.453212
+Samsung,Samsung Galaxy Z Flip8 5G 12GB,12 GB,12.0,256GB,256.0,,,6.9 inch,,50.0 MP,,1,,31990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-flip8,2026-08-07T14:42:51.363939
+Inoi,INOI 244 Modern Plus 4G,64 GB,64.0,64 GB,64.0,,1200 mAh,2.4 inch,,,,0,,449000,https://fptshop.com.vn/dien-thoai/inoi-244-modern-plus-4g,2026-08-07T14:42:53.988989
+Xiaomi,Xiaomi Poco F8 Pro 5G 12GB,12 GB,12.0,256GB,256.0,,,6.59 inch,,,,1,,15990000,https://fptshop.com.vn/dien-thoai/xiaomi-poco-f8-pro,2026-08-07T14:42:56.451445
+Apple,iPhone 15,512GB,512.0,128 GB,128.0,,20 Giờ,6.1 inch,,,,0,,17990000,https://fptshop.com.vn/dien-thoai/iphone-15?sku=00904214,2026-08-07T14:43:00.907988
+Oppo,OPPO Reno16 F 5G 8GB,8 GB,8.0,256GB,256.0,,,6.57 inch,,50.0 MP,,1,,15990000,https://fptshop.com.vn/dien-thoai/oppo-reno16-f,2026-08-07T14:43:26.236123
+Samsung,Samsung Galaxy Z Fold8 Ultra 5G 16GB,16 GB,16.0,1TB,1.0,,,8 inch,,50.0 MP,,1,,67990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold8-ultra-16gb,2026-08-07T14:43:28.866996
+Samsung,Samsung Galaxy S25 Edge 5G,12 GB,12.0,256GB,256.0,,,6.7 inch,,200.0 MP,,1,,20450000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-edge,2026-08-07T14:43:36.830762
+Apple,iPhone 17e,256GB,256.0,256 GB,256.0,,26 Giờ,6.1 inch,,,,0,,17490000,https://fptshop.com.vn/dien-thoai/iphone-17e,2026-08-07T14:43:39.617023
+Apple,iPhone 16e,128GB,128.0,512 GB,512.0,,21 Giờ,6.1 inch,,,,0,,19990000,https://fptshop.com.vn/dien-thoai/iphone-16e?sku=00916025,2026-08-07T14:43:43.027744
+Oppo,OPPO A6 Pro 8GB,8 GB,8.0,128GB,128.0,,,6.57 inch,,50 MP,,0,,8290000,https://fptshop.com.vn/dien-thoai/oppo-a6-pro,2026-08-07T14:43:45.489835
+Masstel,Masstel Fami 25 4G,64 GB,64.0,64 GB,64.0,,1400 mAh,1.77 inch,,,,0,,680000,https://fptshop.com.vn/dien-thoai/masstel-fami-25-4g,2026-08-07T14:43:48.679967
+Xiaomi,Xiaomi Poco M8 Pro 5G 12GB,12 GB,12.0,512GB,512.0,,,6.83 inch,,50.0 MP,,1,,10990000,https://fptshop.com.vn/dien-thoai/xiaomi-poco-m8-pro?sku=00925509,2026-08-07T14:43:54.329153
+Samsung,Samsung Galaxy Z Flip7 5G,12 GB,12.0,512GB,512.0,,,6.9 inch,,50 MP,,1,,26990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-flip7?sku=00919892,2026-08-07T14:44:05.933663
+Xiaomi,Xiaomi Redmi Note 15 Pro 12GB,12 GB,12.0,256GB,256.0,,,6.77 inch,,,,0,,9290000,https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-15-pro,2026-08-07T14:44:11.396069
+Mobell,Mobell M139 4G,,,,,,1000 mAh,1.77 inch,,,,0,,339000,https://fptshop.com.vn/dien-thoai/mobell-m139-4g,2026-08-07T14:44:14.238788
+Tecno,Tecno Spark 40C 8GB,8 GB,8.0,256GB,256.0,,,6.67 inch,,13.0 MP,,0,,3490000,https://fptshop.com.vn/dien-thoai/tecno-spark-40c?sku=00921120,2026-08-07T14:44:17.647676
+Oppo,OPPO Reno14 5G 12GB,12 GB,12.0,256GB,256.0,,,6.59 inch,,50.0 MP,,1,,15200000,https://fptshop.com.vn/dien-thoai/oppo-reno14,2026-08-07T14:44:20.576388
+Masstel,Masstel Izi 16 4G,32 GB,32.0,,,,1000 mAh,1.77 inch,,,,0,,390000,https://fptshop.com.vn/dien-thoai/masstel-izi-16-4g,2026-08-07T14:44:40.003469
+Apple,iPhone 16,512GB,512.0,512 GB,512.0,,8 GB,6.1 inch,,,,0,,27490000,https://fptshop.com.vn/dien-thoai/iphone-16-512gb?sku=00911201,2026-08-07T14:44:54.344224
+Samsung,Samsung Galaxy Z Flip7 5G,12 GB,12.0,256GB,256.0,,,6.9 inch,,50 MP,,1,,22990000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-flip7,2026-08-07T14:44:57.208464
+Apple,iPhone 17 Pro,12 GB,12.0,1 TB,1.0,,12 GB,6.3 inch,,,,0,,43990000,https://fptshop.com.vn/dien-thoai/iphone-17-pro-1tb,2026-08-07T14:45:16.265811
+Samsung,Samsung Galaxy A57 5G 8GB,8 GB,8.0,128GB,128.0,,,6.7 inch,,50 MP,,1,,11490000,https://fptshop.com.vn/dien-thoai/samsung-galaxy-a57,2026-08-07T14:45:21.543243
